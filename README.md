@@ -1,5 +1,5 @@
 # Extramarks: SDE Training Assignments
-Welcome! This is the codebase for assignments of our SDE (Backend-Java) Training Assignments at **Extramarks Education India Pvt. Ltd.**
+Welcome! This is the codebase for SDE (Backend-Java) Training Assignments at **Extramarks Education India Pvt. Ltd.**
 <p align="center">
   <img width="250" height="210" src="https://5.imimg.com/data5/OF/FU/MY-17085024/extramarks-smart-classes-500x500.png">
 </p>
