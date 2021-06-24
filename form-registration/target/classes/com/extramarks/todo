@@ -1,0 +1,14 @@
+1) Installation --> MYSQL , phpmyadmin , java 11  -
+2) create db on mysql (table---user) ()
+3) complete formDao --  save , edit 
+4) edit --> form --> 
+	1) fetch current userId using details
+	2) use fetchedd userid --> set values
+5) test each method saperately from main
+
+
+
+-----------------------
+7) API host ---> springboot
+8) JS ---> API
+ 
